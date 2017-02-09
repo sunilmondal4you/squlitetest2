@@ -17,6 +17,6 @@ db.serialize( function () {
 
     db.run(dataSchool);
 
-})
+});
 
 db.close();
